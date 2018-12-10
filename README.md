@@ -16,7 +16,7 @@ We have have seen veteran families where a person is too tired to be angry, he t
 
 We have a web application where we click the image of the veteran and recognise the current emotion on the face of the person. After recognising it, we select a playlist based on their emotion without bothering them and help them calm down. This application has been developed keeping in mind to control the anxiety issues of the veterans and help them make a smart home.
 
-## Prerequisites
+## Built With
 
 * Web development
 * IBM Watson Visual Recognition
@@ -32,18 +32,6 @@ We have a web application where we click the image of the veteran and recognise 
 * Create developer accounts on Bose API Control, Spotify
 * Create IBM Watson developer account to get the API keys and endpoint URLs
 
-
-## Built With
-
-* Android Studio
-* Java
-* Python
-* HTML, CSS
-* Javascript
-* JSON
-* Here Maps API
-* Google Cloud Platform
-* Amazon Echo to order the medicine
 
 
 ## Acknowledgments
