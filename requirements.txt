@@ -2,15 +2,20 @@
 awscli==1.16.33
 boto==2.48.0
 boto3==1.9.42
-botocore==1.12.42
+botocore==1.12.23
 Flask==1.0.2
 Flask-Cors==3.0.4
 ibm-cos-sdk==2.3.3
 ibm-cos-sdk-core==2.3.3
 ibm-cos-sdk-s3transfer==2.3.3
 multipledispatch==0.5.0
+numpy==1.12.1
+pandas==0.22.0
 requests==2.18.4
 s3transfer==0.1.13
 virtualenv==16.0.0
 watson-developer-cloud==2.4.1
+libsoundtouch==0.8.0
+Werkzeug==0.14.1
+urllib3==1.22
 

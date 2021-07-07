@@ -24,6 +24,8 @@ def is_nan(x):
     return (x is np.nan or x != x)
 
 app = Flask(__name__)
+port = int(os.getenv('PORT', 8000))
+
 
 @app.route('/')
 def index():
@@ -314,4 +316,4 @@ def main():
 #                 </table>'''
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(host='0.0.0.0', port=port, debug=True)
